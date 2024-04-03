@@ -23,11 +23,11 @@ https://user-images.githubusercontent.com/67278339/211363959-9182ecb7-e56e-4598-
 
 **Experience the Magic of Customization with gh0stzk's bspwm dotfiles**
 
-<sup>Welcome to the world of limitless customization! gh0stzk's dotfiles for bspwm offer a unique and exciting experience with 12 different themes, each featuring captivating color schemes, styles and personality. Immerse yourself in a visual journey that will transform your workspace in an impressive way.</sup>
+<sup>Welcome to the world of limitless customization! gh0stzk's dotfiles for bspwm offer a unique and exciting experience with 15 different themes, each featuring captivating color schemes, styles and personality. Immerse yourself in a visual journey that will transform your workspace in an impressive way.</sup>
 
 **Change themes on the fly**
 
-<sup>With our custom menu based on rofi launcher, switching between the 12 themes is as easy as a click. Enjoy the versatility of styles and color combinations instantly.</sup>
+<sup>With our custom menu based on rofi launcher, switching between the 15 themes is as easy as a click. Enjoy the versatility of styles and color combinations instantly.</sup>
 
 **Consistency Across the Environment**
 
@@ -116,7 +116,7 @@ I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wik
 
 ### 🌸Aline
 
-|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/874fe328-de49-4af9-8381-fce80fa9f11b" alt="Aline Rice" align="center">|
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/5ae48d8d-ebcb-4fd5-9c80-78fc325a7a38" alt="Aline Rice" align="center">|
 |---|
 
 <details>
@@ -144,7 +144,7 @@ I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wik
 
 ### 🌸Cynthia
 
-|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/e927c626-38a7-4317-b885-076055918695" alt="Cynthia Rice" align="center">|
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/5df45139-1d73-4f5f-8e8d-a417c86bfb96" alt="Cynthia Rice" align="center">|
 |---|
 
 <details>
@@ -255,11 +255,59 @@ I already started writing the [**Wiki**](https://github.com/gh0stzk/dotfiles/wik
 
 </details>
 
+### 🌸Brenda:
+
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/22e37944-5aad-46bf-8934-3a57d1718ed2" alt="Brenda Rice" align="center">|
+|---|
+
+<details>
+<summary><b>Extra wallpapers in Brenda</b></summary>
+
+|<img src="config/bspwm/rices/brenda/walls/wall-01.webp" alt="Brenda Rice" align="center" width="150px">|<img src="config/bspwm/rices/brenda/walls/wall-02.webp" alt="Brenda Rice" align="center" width="150px">|<img src="config/bspwm/rices/brenda/walls/wall-04.webp" alt="Brenda Rice" align="center" width="150px">|
+|:-:|:-:|:-:|
+<img src="config/bspwm/rices/brenda/walls/wall-05.webp" alt="Brenda Rice" align="center" width="150px">|<img src="config/bspwm/rices/brenda/walls/wall-06.webp" alt="Brenda Rice" align="center" width="150px">|<img src="config/bspwm/rices/brenda/walls/wall-07.webp" alt="Brenda Rice" align="center" width="150px">|
+
+</details>
+
+### 🌸Daniela:
+
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/f296d6b4-9c8a-49ae-bf63-d82e5105f122" alt="Daniela Rice" align="center">|
+|---|
+
+<details>
+<summary><b>Extra wallpapers in Daniela</b></summary>
+
+|<img src="config/bspwm/rices/daniela/walls/wall-01.webp" alt="Daniela Rice" align="center" width="150px">|<img src="config/bspwm/rices/daniela/walls/wall-03.webp" alt="Daniela Rice" align="center" width="150px">|<img src="config/bspwm/rices/daniela/walls/wall-04.webp" alt="Daniela Rice" align="center" width="150px">|
+|:-:|:-:|:-:|
+<img src="config/bspwm/rices/daniela/walls/wall-05.webp" alt="Daniela Rice" align="center" width="150px">|<img src="config/bspwm/rices/daniela/walls/wall-06.webp" alt="Daniela Rice" align="center" width="150px">|<img src="config/bspwm/rices/daniela/walls/wall-07.webp" alt="Daniela Rice" align="center" width="150px">|
+
+</details>
+
+### 🌸Marisol:
+
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/d11d20c5-1edc-44c8-901b-a4103a139617" alt="Daniela Rice" align="center">|
+|---|
+
+<details>
+<summary><b>Extra wallpapers in Marisol</b></summary>
+
+|<img src="config/bspwm/rices/marisol/walls/wall-01.webp" alt="Marisol Rice" align="center" width="150px">|<img src="config/bspwm/rices/marisol/walls/wall-02.webp" alt="Marisol Rice" align="center" width="150px">|<img src="config/bspwm/rices/marisol/walls/wall-03.webp" alt="Marisol Rice" align="center" width="150px">|
+|:-:|:-:|:-:|
+<img src="config/bspwm/rices/marisol/walls/wall-05.webp" alt="Marisol Rice" align="center" width="150px">|<img src="config/bspwm/rices/marisol/walls/wall-06.webp" alt="Marisol Rice" align="center" width="150px">|<img src="config/bspwm/rices/marisol/walls/wall-07.webp" alt="Marisol Rice" align="center" width="150px">|
+
+</details>
+
 ## Firefox Theme (z0mbi3 Fox)
 
 |<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/9b956d3d-fc7b-49ca-b27f-dc6aa83d9e2f" alt="Firefox theme - z0mbi3-Fox" width="700">|
 |:-:|
 Complementarily you can install [this extension](https://github.com/PonyLucky/gh0stzk-Firefox/tree/master/extension) made by [PonyLucky](https://github.com/PonyLucky). It is a startpage to enhance UX. [Preview and configuration options](https://github.com/PonyLucky/gh0stzk-Firefox/tree/master/extension). Looks awesome with the firefox theme.
+
+## Neovim Setup
+
+|<img src="https://github.com/gh0stzk/dotfiles/assets/67278339/17a1eb30-437e-4bf2-980c-6a410eff76bb" alt="Neovim configuration" width="700">|
+|:-:|
+Plugins included [Neovim setup wiki](https://github.com/gh0stzk/dotfiles/wiki/Neovim-setup)
 
 ## Very useful keybindigs to know...
 
